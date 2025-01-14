@@ -4,15 +4,15 @@
 
 #Function
 def gameofTrickTreating():
-    print ("Let's go play a fun game of Trick-o-Treating!")
+    print ("Let's go play a fun game of Trick-o-Treating!")#Asks the player to go trick or treating.
     print ("To get started, please enter interesting words, thank you!")
-    adjOne = input("Enter an adjective: ")
-    adjTwo = input("Enter a mysterious adjective: ")
-    adjThree = input("Enter a silly adjective: ")
-    adjFour = input("Enter another silly adjective: ")
-    nounOne = input("Enter a noun: ")
-    nounTwo = input("Enter your most expensive costume: ")
-    animalTwo = input("Enter a sea animal: ")
+    adjOne = input("Enter an adjective: ")#Asking for an adjective
+    adjTwo = input("Enter a mysterious adjective: ")#Asking for a mysterious adjective
+    adjThree = input("Enter a silly adjective: ")#Asking for a silly adjective
+    adjFour = input("Enter another silly adjective: ")#Asking for another silly adjective
+    nounOne = input("Enter a noun: ")#Asking the player for a noun
+    nounTwo = input("Enter your most expensive costume: ")#Asking the player to enter the most expensive costume they know of.
+    animalTwo = input("Enter a sea animal: ")#Asking for
     animalThree = input("Enter a plural energetic animal: ")
     chocolate = input("Enter a type of chocolate that begins with either S or T: ")
     nonchocolate = input("Enter a type of candy that is not chocolate: ")
@@ -33,6 +33,9 @@ def gameofTrickTreating():
 
 #Main
 gameofTrickTreating()
+
+
+
 
 
 
