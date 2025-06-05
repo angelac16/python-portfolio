@@ -1,5 +1,5 @@
 # python-portfolio
-This is where I store all my Python projects from Semester 1 of my Junior Year.
+This is where I store all my Python projects from Semester 1 and Semester 2 of my Junior Year.
 
 Ticket Master
 Key Learnings:
@@ -26,3 +26,11 @@ Multiplication Quiz:
 - This project aims to test kindergarteners on their multiplication skills.
 - This project reminded me how to use the function "random.randint" and taught me how the function of "str" is to make a number become a string and "int" is to make a string into a number.
 - A difficulty I worked through was incrementing the question number each time the student took this quiz. 
+
+Slot Machine:
+- This project shows how much luck and possibility of a chance a user would get a thunder, heart, 7, and a 3 in the slot machine.
+- This project shows that being lucky and getting all 7's or all 3's is very lucky as it is a low chance.
+
+Magic Eight Ball:
+- This project is for those users who have been thinking about disturbing or concerned topics in their mind. They believe in things that are meant to be, hope, and toys that tell fortune.
+- This project allows users to recieve the answer to their question without anyone knowing the question so it is private. 
